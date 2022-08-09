@@ -49,10 +49,17 @@
 		"image": "https://i.imgur.com/W5dAfCn.jpg"
 	},
 	{
-		"name": "𝖀𝖓𝖐𝖓𝖔𝖜𝖓 𝕿𝖗𝖎𝖉𝖊𝖓𝖙",
+		"name": "𝓤𝓷𝓴𝓷𝓸𝔀𝓷 𝓣𝓻𝓲𝓭𝓮𝓷𝓽",
 		"price": 16750000,
 		"durability": 60000,
 		"countdown": 5,
 		"image": "https://i.imgur.com/EDozSgg.jpg"
+	},
+	{
+		"name": "𝕷𝖊𝖌𝖊𝖓𝖉 𝕺𝖋 𝕽𝖔𝖉",
+		"price": 100000000,
+		"durability": 10000,
+		"countdown": 3,
+		"image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/rod/legend_of_rod.png"
 	}
 ]
