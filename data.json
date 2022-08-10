@@ -567,6 +567,14 @@
                     },
                     {
                         "ID":1,
+                        "name":"Mẹ mày",
+                        "category":"Legendary",
+                        "size":69420727,
+                        "sell":69420,
+                        "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
+                    },
+                    {
+                        "ID":2,
                         "name":"Grand Demon Leviathan",
                         "category":"Mythical",
                         "size":37300,
