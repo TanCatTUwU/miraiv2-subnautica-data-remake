@@ -27,7 +27,7 @@
                         "name":"Floater",
                         "category":"Uncommon",
                         "size":20,
-                        "sell":40,
+                        "sell":400,
                         "image": "https://i.imgur.com/sbe22fQ.jpg"
                     },
                     {
@@ -43,7 +43,7 @@
                         "name":"Crashfish",
                         "category":"Uncommon",
                         "size":28,
-                        "sell":35,
+                        "sell":350,
                         "image": "https://i.imgur.com/qrU1J3y.png"
                     },
                     {
@@ -51,7 +51,7 @@
                         "name":"Gasopod",
                         "category":"Rare",
                         "size":4700,
-                        "sell":180,
+                        "sell":18000,
                         "image": "https://i.imgur.com/d5RYnzo.png"
                     },
                     {
@@ -59,7 +59,7 @@
                         "name":"Rabbit Ray",
                         "category":"Uncommon",
                         "size":40,
-                        "sell":37,
+                        "sell":370,
                         "image": "https://i.imgur.com/jjzQDkj.jpg"
                     },
                     {
@@ -121,7 +121,7 @@
                         "name":"Shuttlebug",
                         "category":"Uncommon",
                         "size":27,
-                        "sell":41,
+                        "sell":410,
                         "image": "https://i.imgur.com/Mly7Elf.jpg"
                     }
                 ]
@@ -159,7 +159,7 @@
                         "name":"Hoverfish",
                         "category":"Uncommon",
                         "size":38,
-                        "sell":42,
+                        "sell":420,
                         "image": "https://i.imgur.com/wQZRj9t.png"
                     },
                     {
@@ -175,7 +175,7 @@
                         "name":"Rabbit Ray",
                         "category":"Uncommon",
                         "size":40,
-                        "sell":37,
+                        "sell":370,
                         "image": "https://i.imgur.com/jjzQDkj.jpg"
                     },
                     {
@@ -183,7 +183,7 @@
                         "name":"Stalker",
                         "category":"Uncommon",
                         "size":1800,
-                        "sell":90,
+                        "sell":900,
                         "image": "https://i.imgur.com/Gc8qMDh.png"
                     }
                 ]
@@ -197,7 +197,7 @@
                         "name":"Ampeel",
                         "category":"Rare",
                         "size":1100,
-                        "sell":405,
+                        "sell":40500,
                         "image": "https://i.imgur.com/hHyRaNE.jpg"
                     },
                     {
@@ -205,7 +205,7 @@
                         "name":"Blighter",
                         "category":"Uncommon",
                         "size":22,
-                        "sell":30,
+                        "sell":300,
                         "image": "https://i.imgur.com/ke5jbH3.jpg"
                     },
                     {
@@ -213,7 +213,7 @@
                         "name":"Blood Crawler",
                         "category":"Uncommon",
                         "size":40,
-                        "sell":50,
+                        "sell":500,
                         "image": "https://i.imgur.com/QKrzlCr.png"
                     },
                     {
@@ -221,7 +221,7 @@
                         "name":"Spinefish",
                         "category":"Common",
                         "size":29,
-                        "sell":20,
+                        "sell":200,
                         "image": "https://i.imgur.com/inXivDO.jpg"
                     },
                     {
@@ -229,7 +229,7 @@
                         "name":"Warper",
                         "category":"Epic",
                         "size":170,
-                        "sell":348,
+                        "sell":348000,
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
@@ -243,14 +243,14 @@
                         "name":"Ampeel",
                         "category":"Rare",
                         "size":11,
-                        "sell":405,
+                        "sell":40500,
                         "image": "https://i.imgur.com/hHyRaNE.jpg"
                     },
                     {
                         "ID":1,
                         "name":"Boneshark",
                         "category":"Rare",
-                        "size":8400,
+                        "size":84000,
                         "sell":377,
                         "image": "https://i.imgur.com/WcZE7hq.png"
                     },
@@ -259,7 +259,7 @@
                         "name":"Reefback Leviathan",
                         "category":"Epic",
                         "size":6400,
-                        "sell":3024,
+                        "sell":302400,
                         "image": "https://i.imgur.com/Knd4axq.png"
                     },
                     {
@@ -289,7 +289,7 @@
                         "name":"Crabsquid",
                         "category":"Rare",
                         "size":500,
-                        "sell":210,
+                        "sell":21000,
                         "image": "https://i.imgur.com/KBzDuHM.png"
                     },
                     {
@@ -297,7 +297,7 @@
                         "name":"Jelly Ray",
                         "category":"Uncommon",
                         "size":190,
-                        "sell":76,
+                        "sell":760,
                         "image": "https://i.imgur.com/EF8ufGh.png"
                     },
                     {
@@ -313,7 +313,7 @@
                         "name":"Warper",
                         "category":"Epic",
                         "size":170,
-                        "sell":348,
+                        "sell":348000,
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
@@ -327,7 +327,7 @@
                         "name":"Bleeder",
                         "category":"Uncommon",
                         "size":19,
-                        "sell":37,
+                        "sell":370,
                         "image": "https://i.imgur.com/EVAjNvI.png"
                     },
                     {
@@ -335,7 +335,7 @@
                         "name":"Ghostray",
                         "category":"Uncommon",
                         "size":250,
-                        "sell":99,
+                        "sell":990,
                         "image": "https://i.imgur.com/UC5HJWw.png"
                     },
                     {
@@ -343,7 +343,7 @@
                         "name":"Ghost Leviathan Juvenile",
                         "category":"Legendary",
                         "size":6700,
-                        "sell":72050,
+                        "sell":7205000,
                         "image": "https://i.imgur.com/R4SDc8k.jpg"
                     },
                     {
@@ -351,7 +351,7 @@
                         "name":"Mesmer",
                         "category":"Rare",
                         "size":67,
-                        "sell":99,
+                        "sell":99000,
                         "image": "https://i.imgur.com/UUfnPCp.png"
                     },
                     {
@@ -359,7 +359,7 @@
                         "name":"River Prowler",
                         "category":"Rare",
                         "size":1100,
-                        "sell":410,
+                        "sell":41000,
                         "image": "https://i.imgur.com/vyRypZv.jpg"
                     },
                     {
@@ -389,7 +389,7 @@
                         "name":"Boneshark",
                         "category":"Rare",
                         "size":8400,
-                        "sell":377,
+                        "sell":37700,
                         "image": "https://i.imgur.com/WcZE7hq.png"
                     },
                     {
@@ -421,7 +421,7 @@
                         "name":"Hoverfish",
                         "category":"Uncommon",
                         "size":38,
-                        "sell":42,
+                        "sell":420,
                         "image": "https://i.imgur.com/wQZRj9t.png"
                     },
                     {
@@ -437,7 +437,7 @@
                         "name":"Rabbit Ray",
                         "category":"Uncommon",
                         "size":40,
-                        "sell":37,
+                        "sell":370,
                         "image": "https://i.imgur.com/jjzQDkj.jpg"
                     },
                     {
@@ -445,7 +445,7 @@
                         "name":"Reaper Leviathan",
                         "category":"Legendary",
                         "size":5500,
-                        "sell":67960,
+                        "sell":6796000,
                         "image": "https://i.imgur.com/14sGSJ2.jpg"
                     },
                     {
@@ -461,7 +461,7 @@
                         "name":"Sand Shark",
                         "category":"Rare",
                         "size":500,
-                        "sell":225,
+                        "sell":22500,
                         "image": "https://i.imgur.com/Ejo0kju.png"
                     },
                     {
@@ -469,7 +469,7 @@
                         "name":"Shuttlebug",
                         "category":"Uncommon",
                         "size":27,
-                        "sell":41,
+                        "sell":410,
                         "image": "https://i.imgur.com/Mly7Elf.jpg"
                     },
                     {
@@ -485,7 +485,7 @@
                         "name":"Stalker",
                         "category":"Uncommon",
                         "size":1800,
-                        "sell":90,
+                        "sell":900,
                         "image": "https://i.imgur.com/Gc8qMDh.png"
                     }
                 ]
@@ -499,7 +499,7 @@
                         "name":"Crimson Ray",
                         "category":"Uncommon",
                         "size":300,
-                        "sell":10,
+                        "sell":100,
                         "image": "https://i.imgur.com/ii63Q5r.png"
                     },
                     {
@@ -507,7 +507,7 @@
                         "name":"Lava Larva",
                         "category":"Uncommon",
                         "size":24,
-                        "sell":41,
+                        "sell":410,
                         "image": "https://i.imgur.com/DEhFwIb.png"
                     },
                     {
@@ -515,7 +515,7 @@
                         "name":"Lava Lizard",
                         "category":"Rare",
                         "size":870,
-                        "sell":385,
+                        "sell":38500,
                         "image": "https://i.imgur.com/AblidWp.png"
                     },
                     {
@@ -539,7 +539,7 @@
                         "name":"Sea Dragon Leviathan",
                         "category":"Legendary",
                         "size":11000,
-                        "sell":158000,
+                        "sell":1580000,
                         "image": "https://i.imgur.com/iALri8R.png"
                     },
                     {
@@ -547,7 +547,7 @@
                         "name":"Warper",
                         "category":"Epic",
                         "size":170,
-                        "sell":348,
+                        "sell":348000,
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
@@ -555,14 +555,14 @@
             {   
                 "ID": 9,
                 "name":"Crater Edge – The Void",
-                "rate": 94,
+                "rate": 9500,
                 "creature":[
                     {
                         "ID":0,
                         "name":"Ghost Leviathan Juvenile",
                         "category":"Legendary",
                         "size":6700,
-                        "sell":72050,
+                        "sell":7205000,
                         "image": "https://i.imgur.com/R4SDc8k.jpg"
                     },
                     {
@@ -570,7 +570,7 @@
                         "name":"Mẹ mày",
                         "category":"Legendary",
                         "size":69420727,
-                        "sell":69420,
+                        "sell":6942000,
                         "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/img/fish/urmomlol.png"
                     },
                     {
@@ -578,8 +578,142 @@
                         "name":"Grand Demon Leviathan",
                         "category":"Mythical",
                         "size":37300,
-                        "sell":3534580,
+                        "sell":35345800,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
+                    }
+                ]
+            },
+			{   
+                "ID": 10,
+                "name":"Dunes",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Gasopod",
+                        "category":"Rare",
+                        "size":4700,
+                        "sell":18000,
+                        "image": "https://i.imgur.com/d5RYnzo.png"
+                    },
+					{
+                        "ID":1,
+                        "name":"Ampeel",
+                        "category":"Rare",
+                        "size":1100,
+                        "sell":40500,
+                        "image": "https://i.imgur.com/hHyRaNE.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Biter",
+                        "category":"Common",
+                        "size":530,
+                        "sell":35,
+                        "image": "https://static.wikia.nocookie.net/subnautica/images/b/bd/Biter_Fauna.png/revision/latest?cb=20170911163756"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Blighter",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":300,
+                        "image": "https://i.imgur.com/ke5jbH3.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Boneshark",
+                        "category":"Rare",
+                        "size":8400,
+                        "sell":37700,
+                        "image": "https://i.imgur.com/WcZE7hq.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Crabsnake",
+                        "category":"Legendary",
+                        "size":7200,
+                        "sell":1624000,
+                        "image": "https://static.wikia.nocookie.net/subnautica/images/f/f7/Crabsnake_Fauna.png/revision/latest?cb=20170729202832"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Crabsquid",
+                        "category":"Rare",
+                        "size":500,
+                        "sell":21000,
+                        "image": "https://i.imgur.com/KBzDuHM.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Crashfish",
+                        "category":"Uncommon",
+                        "size":28,
+                        "sell":350,
+                        "image": "https://i.imgur.com/qrU1J3y.png"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Lava Lizard",
+                        "category":"Rare",
+                        "size":870,
+                        "sell":38500,
+                        "image": "https://i.imgur.com/AblidWp.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Mesmer",
+                        "category":"Rare",
+                        "size":67,
+                        "sell":99000,
+                        "image": "https://i.imgur.com/UUfnPCp.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"River Prowler",
+                        "category":"Rare",
+                        "size":1100,
+                        "sell":41000,
+                        "image": "https://i.imgur.com/vyRypZv.jpg"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Sand Shark",
+                        "category":"Rare",
+                        "size":500,
+                        "sell":22500,
+                        "image": "https://i.imgur.com/Ejo0kju.png"
+                    },
+                    {
+                        "ID":12,
+                        "name":"Stalker",
+                        "category":"Uncommon",
+                        "size":1800,
+                        "sell":900,
+                        "image": "https://i.imgur.com/Gc8qMDh.png"
+                    },
+                    {
+                        "ID":13,
+                        "name":"Warper",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":348000,
+                        "image": "https://i.imgur.com/XRsxfIV.png"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Reaper Leviathan",
+                        "category":"Legendary",
+                        "size":5500,
+                        "sell":6796000,
+                        "image": "https://i.imgur.com/14sGSJ2.jpg"
+                    },
+                    {
+                        "ID":15,
+                        "name":"Gargantuan Leviathan",
+                        "category":"Mythical",
+                        "size":55000,
+                        "sell":67960000,
+                        "image": "https://static.wikia.nocookie.net/aotu/images/b/b4/Garg19.jpg/revision/latest?cb=20210728211455"
                     }
                 ]
             }
@@ -629,7 +763,7 @@
                         "name":"Arctic Ray",
                         "category":"Uncommon",
                         "size":120,
-                        "sell":99,
+                        "sell":990,
                         "image": "https://i.imgur.com/fJwcFHQ.png"
                     }
                 ]
@@ -651,7 +785,7 @@
                         "name":"Brinewing",
                         "category":"Uncommon",
                         "size":68,
-                        "sell":67,
+                        "sell":670,
                         "image": "https://i.imgur.com/jsA3grS.png"
                     },
                     {
@@ -659,7 +793,7 @@
                         "name":"Pengwing",
                         "category":"Uncommon",
                         "size":32,
-                        "sell":22,
+                        "sell":220,
                         "image": "https://i.imgur.com/dH8XB25.png"
                     },
                     {
@@ -667,7 +801,7 @@
                         "name":"Symbiote",
                         "category":"Rare",
                         "size":21,
-                        "sell":56,
+                        "sell":56000,
                         "image": "https://i.imgur.com/HyPRuuO.png"
                     },
                     {
@@ -675,7 +809,7 @@
                         "name":"Titan Holefish",
                         "category":"Epic",
                         "size":450,
-                        "sell":869,
+                        "sell":869000,
                         "image": "https://i.imgur.com/2uJIRkL.png"
                     }
                 ]
@@ -705,7 +839,7 @@
                         "name":"Pengling",
                         "category":"Uncommon",
                         "size":63,
-                        "sell":65,
+                        "sell":650,
                         "image": "https://i.imgur.com/Qy0kJT5.png"
                     },
                     {
@@ -713,7 +847,7 @@
                         "name":"Pengwing",
                         "category":"Uncommon",
                         "size":32,
-                        "sell":22,
+                        "sell":220,
                         "image": "https://i.imgur.com/dH8XB25.png"
                     },
                     {
@@ -721,7 +855,7 @@
                         "name":"Pinnacarid",
                         "category":"Uncommon",
                         "size":54,
-                        "sell":48,
+                        "sell":480,
                         "image": "https://i.imgur.com/pbOeb3U.png"
                     },
                     {
@@ -729,7 +863,7 @@
                         "name":"Sea Monkey",
                         "category":"Rare",
                         "size":120,
-                        "sell":110,
+                        "sell":11000,
                         "image": "https://i.imgur.com/QsbkHfj.png"
                     }
                 ]
@@ -743,7 +877,7 @@
                         "name":"Arrow Ray",
                         "category":"Uncommon",
                         "size":120,
-                        "sell":99,
+                        "sell":990,
                         "image": "https://i.imgur.com/NJKErJi.png"
                     },
                     {
@@ -767,7 +901,7 @@
                         "name":"Brute Shark",
                         "category":"Rare",
                         "size":560,
-                        "sell":310,
+                        "sell":31000,
                         "image": "https://i.imgur.com/uhCtIkO.png"
                     },
                     {
@@ -775,7 +909,7 @@
                         "name":"Feather Fish",
                         "category":"Uncommon",
                         "size":32,
-                        "sell":41,
+                        "sell":410,
                         "image": "https://i.imgur.com/hvfqv6n.png"
                     },
                     {
@@ -783,7 +917,7 @@
                         "name":"Glow Whale",
                         "category":"Epic",
                         "size":3000,
-                        "sell":1512,
+                        "sell":151200,
                         "image": "https://i.imgur.com/DkQGFvG.png"
                     },
                     {
@@ -799,7 +933,7 @@
                         "name":"Lily Paddler",
                         "category":"Rare",
                         "size":100,
-                        "sell":97,
+                        "sell":97000,
                         "image": "https://i.imgur.com/I1ZUZll.png"
                     },
                     {
@@ -807,7 +941,7 @@
                         "name":"Noot Fish",
                         "category":"Uncommon",
                         "size":74,
-                        "sell":74,
+                        "sell":740,
                         "image": "https://i.imgur.com/jR73WON.png"
                     },
                     {
@@ -815,7 +949,7 @@
                         "name":"Sea Monkey",
                         "category":"Rare",
                         "size":120,
-                        "sell":110,
+                        "sell":11000,
                         "image": "https://i.imgur.com/QsbkHfj.png"
                     },
                     {
@@ -823,7 +957,7 @@
                         "name":"Squidshark",
                         "category":"Rare",
                         "size":11,
-                        "sell":628,
+                        "sell":62800,
                         "image": "https://i.imgur.com/OTyFBsE.png"
                     }
                 ]
@@ -845,7 +979,7 @@
                         "name":"Chelicerate",
                         "category":"Legendary",
                         "size":5500,
-                        "sell":87650,
+                        "sell":8765000,
                         "image": "https://i.imgur.com/PaeEsyM.png"
                     },
                     {
@@ -853,7 +987,7 @@
                         "name":"Crashfish",
                         "category":"Uncommon",
                         "size":28,
-                        "sell":35,
+                        "sell":350,
                         "image": "https://i.imgur.com/qrU1J3y.png"
                     },
                     {
@@ -861,7 +995,7 @@
                         "name":"Cryptosuchus",
                         "category":"Rare",
                         "size":650,
-                        "sell":344,
+                        "sell":34400,
                         "image": "https://i.imgur.com/LZQ1901.png"
                     },
                     {
@@ -869,7 +1003,7 @@
                         "name":"Feather Fish",
                         "category":"Uncommon",
                         "size":32,
-                        "sell":41,
+                        "sell":410,
                         "image": "https://i.imgur.com/hvfqv6n.png"
                     }
                 ]
@@ -891,7 +1025,7 @@
                         "name":"Red Feather Fish",
                         "category":"Uncommon",
                         "size":35,
-                        "sell":44,
+                        "sell":440,
                         "image": "https://i.imgur.com/6eugLip.png"
                     },
                     {
@@ -899,7 +1033,7 @@
                         "name":"Rockgrub",
                         "category":"Epic",
                         "size":24,
-                        "sell":118,
+                        "sell":118000,
                         "image": "https://i.imgur.com/xbdLdm4.jpg"
                     },
                     {
@@ -907,7 +1041,7 @@
                         "name":"Rock Puncher",
                         "category":"Rare",
                         "size":2,
-                        "sell":189,
+                        "sell":18900,
                         "image": "https://i.imgur.com/5f8kjk5.png"
                     },
                     {
@@ -915,7 +1049,7 @@
                         "name":"Shadow Leviathan",
                         "category":"Legendary",
                         "size":6000,
-                        "sell":105070,
+                        "sell":1050700,
                         "image": "https://i.imgur.com/dinzzWr.png"
                     },
                     {
@@ -945,7 +1079,7 @@
                         "name":"Arctic Ray",
                         "category":"Uncommon",
                         "size":120,
-                        "sell":99,
+                        "sell":990,
                         "image": "https://i.imgur.com/fJwcFHQ.png"
                     },
                     {
@@ -969,7 +1103,7 @@
                         "name":"Chelicerate",
                         "category":"Legendary",
                         "size":5500,
-                        "sell":87650,
+                        "sell":8765000,
                         "image": "https://i.imgur.com/PaeEsyM.png"
                     },
                     {
@@ -977,7 +1111,7 @@
                         "name":"Glow Whale",
                         "category":"Epic",
                         "size":30,
-                        "sell":1512,
+                        "sell":151200,
                         "image": "https://i.imgur.com/DkQGFvG.png"
                     },
                     {
@@ -985,7 +1119,7 @@
                         "name":"Pengling",
                         "category":"Uncommon",
                         "size":63,
-                        "sell":65,
+                        "sell":650,
                         "image": "https://i.imgur.com/Qy0kJT5.png"
                     },
                     {
@@ -993,7 +1127,7 @@
                         "name":"Pengwing",
                         "category":"Uncommon",
                         "size":32,
-                        "sell":22,
+                        "sell":220,
                         "image": "https://i.imgur.com/dH8XB25.png"
                     },
                     {
@@ -1001,7 +1135,7 @@
                         "name":"Pinnacarid",
                         "category":"Uncommon",
                         "size":54,
-                        "sell":48,
+                        "sell":480,
                         "image": "https://i.imgur.com/pbOeb3U.png"
                     },
                     {
@@ -1009,7 +1143,7 @@
                         "name":"Rockgrub",
                         "category":"Epic",
                         "size":24,
-                        "sell":118,
+                        "sell":118000,
                         "image": "https://i.imgur.com/xbdLdm4.jpg"
                     },
                     {
@@ -1017,7 +1151,7 @@
                         "name":"Titan Holefish",
                         "category":"Epic",
                         "size":450,
-                        "sell":869,
+                        "sell":869000,
                         "image": "https://i.imgur.com/2uJIRkL.png"
                     }
                 ]
@@ -1032,7 +1166,7 @@
                         "name":"Void Chelicerate",
                         "category":"Legendary",
                         "size":6500,
-                        "sell":110708,
+                        "sell":1107080,
                         "image": "https://i.imgur.com/VuLnzT8.png"
                     }
                 ]
