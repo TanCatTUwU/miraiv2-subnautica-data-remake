@@ -555,7 +555,6 @@
             {   
                 "ID": 9,
                 "name":"Crater Edge – The Void",
-                "rate": 9500,
                 "creature":[
                     {
                         "ID":0,
