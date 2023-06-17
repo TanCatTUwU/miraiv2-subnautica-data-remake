@@ -580,6 +580,110 @@
                         "size":37300,
                         "sell":35345800,
                         "image": "https://i.imgur.com/WuWQOYy.jpg"
+                    },
+					{
+                        "ID":3,
+                        "name":"Ampeel",
+                        "category":"Rare",
+                        "size":1100,
+                        "sell":40500,
+                        "image": "https://i.imgur.com/hHyRaNE.jpg"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Biter",
+                        "category":"Common",
+                        "size":530,
+                        "sell":35,
+                        "image": "https://static.wikia.nocookie.net/subnautica/images/b/bd/Biter_Fauna.png/revision/latest?cb=20170911163756"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Blighter",
+                        "category":"Uncommon",
+                        "size":22,
+                        "sell":300,
+                        "image": "https://i.imgur.com/ke5jbH3.jpg"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Boneshark",
+                        "category":"Rare",
+                        "size":8400,
+                        "sell":37700,
+                        "image": "https://i.imgur.com/WcZE7hq.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Crabsnake",
+                        "category":"Legendary",
+                        "size":7200,
+                        "sell":1624000,
+                        "image": "https://static.wikia.nocookie.net/subnautica/images/f/f7/Crabsnake_Fauna.png/revision/latest?cb=20170729202832"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Crabsquid",
+                        "category":"Rare",
+                        "size":500,
+                        "sell":21000,
+                        "image": "https://i.imgur.com/KBzDuHM.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Crashfish",
+                        "category":"Uncommon",
+                        "size":28,
+                        "sell":350,
+                        "image": "https://i.imgur.com/qrU1J3y.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Lava Lizard",
+                        "category":"Rare",
+                        "size":870,
+                        "sell":38500,
+                        "image": "https://i.imgur.com/AblidWp.png"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Mesmer",
+                        "category":"Rare",
+                        "size":67,
+                        "sell":99000,
+                        "image": "https://i.imgur.com/UUfnPCp.png"
+                    },
+                    {
+                        "ID":12,
+                        "name":"River Prowler",
+                        "category":"Rare",
+                        "size":1100,
+                        "sell":41000,
+                        "image": "https://i.imgur.com/vyRypZv.jpg"
+                    },
+                    {
+                        "ID":13,
+                        "name":"Sand Shark",
+                        "category":"Rare",
+                        "size":500,
+                        "sell":22500,
+                        "image": "https://i.imgur.com/Ejo0kju.png"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Stalker",
+                        "category":"Uncommon",
+                        "size":1800,
+                        "sell":900,
+                        "image": "https://i.imgur.com/Gc8qMDh.png"
+                    },
+                    {
+                        "ID":15,
+                        "name":"Warper",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":348000,
+                        "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
             },
