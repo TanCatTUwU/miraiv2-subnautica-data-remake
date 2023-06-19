@@ -756,7 +756,7 @@
                     }
                 ]
             },
-			{   
+            {   
                 "ID": 11,
                 "name":"Bulb Zone",
                 "creature":[
@@ -842,7 +842,7 @@
                     }
                 ]
             },
-			{   
+            {   
                 "ID": 12,
                 "name":"Underwater Islands",
                 "creature":[
@@ -912,7 +912,7 @@
                     }
                 ]
             },
-			{   
+            {   
                 "ID": 13,
                 "name":"Grassy Plateaus",
                 "creature":[
@@ -990,7 +990,7 @@
                     }
                 ]
             },
-			{   
+            {   
                 "ID": 14,
                 "name":"Sea Treader's Path",
                 "creature":[
@@ -1060,7 +1060,7 @@
                     }
                 ]
             },
-			{   
+            {   
                 "ID": 15,
                 "name":"Crag Field",
                 "creature":[
