@@ -49,7 +49,7 @@ module.exports.onLoad = async () => {
     })).data.pipe(fs.createWriteStream(dir + "data.json"));
 
     if (!fs.existsSync(dir + "item.json")) (await axios({
-        url: "https://raw.githubusercontent.com/miraiv2-subnautica-data-remake/main/item.json",
+        url: "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-data-remake/main/item.json",
         method: 'GET',
         responseType: 'stream'
     })).data.pipe(fs.createWriteStream(dir + "item.json"));
