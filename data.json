@@ -588,7 +588,7 @@
                 "name":"Dunes",
                 "creature":[
                     {
-                        "ID":1,
+                        "ID":0,
                         "name":"Bladderfish",
                         "category":"Common",
                         "size":32,
@@ -596,7 +596,7 @@
                         "image": "https://i.imgur.com/W5IegiJ.png"
                     },
                     {
-                        "ID":2,
+                        "ID":1,
                         "name":"Boomerang",
                         "category":"Common",
                         "size":31,
@@ -604,7 +604,7 @@
                         "image": "https://i.imgur.com/dtBM9sP.png"
                     },
                     {
-                        "ID":3,
+                        "ID":2,
                         "name":"Cave Crawler",
                         "category":"Uncommon",
                         "size":575,
@@ -612,7 +612,7 @@
                         "image": "https://static.wikia.nocookie.net/subnautica/images/4/4f/CaveCrawler.jpg/revision/latest/scale-to-width-down/1000?cb=20160819135630"
                     },
                     {
-                        "ID":4,
+                        "ID":3,
                         "name":"Eyeye",
                         "category":"Common",
                         "size":28,
@@ -620,7 +620,7 @@
                         "image": "https://i.imgur.com/jdcU4nC.png"
                     },
                     {
-                        "ID":5,
+                        "ID":4,
                         "name":"Garryfish",
                         "category":"Common",
                         "size":37,
@@ -628,7 +628,7 @@
                         "image": "https://i.imgur.com/CNzSzIY.png"
                     },
                     {
-                        "ID":6,
+                        "ID":5,
                         "name":"Gasopod",
                         "category":"Rare",
                         "size":4700,
@@ -636,7 +636,7 @@
                         "image": "https://i.imgur.com/d5RYnzo.png"
                     },
                     {
-                        "ID":7,
+                        "ID":6,
                         "name":"Hoopfish",
                         "category":"Common",
                         "size":27,
@@ -644,7 +644,7 @@
                         "image": "https://i.imgur.com/1I7IeiH.png"
                     },
                     {
-                        "ID":8,
+                        "ID":7,
                         "name":"Peeper",
                         "category":"Common",
                         "size":31,
@@ -652,7 +652,7 @@
                         "image": "https://i.imgur.com/9tBkTdD.jpg"
                     },
                     {
-                        "ID":9,
+                        "ID":8,
                         "name":"Reaper Leviathan",
                         "category":"Legendary",
                         "size":5500,
@@ -660,7 +660,7 @@
                         "image": "https://i.imgur.com/14sGSJ2.jpg"
                     },
                     {
-                        "ID":10,
+                        "ID":9,
                         "name":"Reefback Leviathan",
                         "category":"Common",
                         "size":37,
@@ -668,7 +668,7 @@
                         "image": "https://i.imgur.com/Knd4axq.png"
                     },
                     {
-                        "ID":11,
+                        "ID":10,
                         "name":"Rockgrub",
                         "category":"Epic",
                         "size":24,
@@ -676,7 +676,7 @@
                         "image": "https://i.imgur.com/xbdLdm4.jpg"
                     },
                     {
-                        "ID":12,
+                        "ID":11,
                         "name":"Sand Shark",
                         "category":"Rare",
                         "size":500,
@@ -684,7 +684,7 @@
                         "image": "https://i.imgur.com/Ejo0kju.png"
                     },
                     {
-                        "ID":13,
+                        "ID":12,
                         "name":"Shuttlebug",
                         "category":"Uncommon",
                         "size":27,
@@ -692,7 +692,7 @@
                         "image": "https://i.imgur.com/Mly7Elf.jpg"
                     },
                     {
-                        "ID":14,
+                        "ID":13,
                         "name":"Spadefish",
                         "category":"Common",
                         "size":30,
@@ -700,7 +700,7 @@
                         "image": "https://i.imgur.com/Xt3mcnE.jpg"
                     },
                     {
-                        "ID":15,
+                        "ID":14,
                         "name":"Warper",
                         "category":"Epic",
                         "size":170,
@@ -708,7 +708,7 @@
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     },
                     {
-                        "ID":16,
+                        "ID":15,
                         "name":"Gargantuan Leviathan",
                         "category":"Mythical",
                         "size":55000,
@@ -788,7 +788,7 @@
                 ]
             },
 			{   
-                "ID": 11,
+                "ID": 12,
                 "name":"Bulb Zone",
                 "creature":[
                     {
@@ -874,7 +874,7 @@
                 ]
             },
 			{   
-                "ID": 12,
+                "ID": 13,
                 "name":"Underwater Islands",
                 "creature":[
                     {
@@ -926,7 +926,7 @@
                         "image": "https://i.imgur.com/9tBkTdD.jpg"
                     },
                     {
-                        "ID":7,
+                        "ID":6,
                         "name":"Reefback Leviathan",
                         "category":"Common",
                         "size":37,
@@ -934,7 +934,7 @@
                         "image": "https://i.imgur.com/Knd4axq.png"
                     },
                     {
-                        "ID":8,
+                        "ID":7,
                         "name":"Spadefish",
                         "category":"Common",
                         "size":30,
@@ -944,7 +944,7 @@
                 ]
             },
 			{   
-                "ID": 13,
+                "ID": 14,
                 "name":"Grassy Plateaus",
                 "creature":[
                     {
@@ -1022,7 +1022,7 @@
                 ]
             },
 			{   
-                "ID": 14,
+                "ID": 15,
                 "name":"Sea Treader's Path",
                 "creature":[
                     {
@@ -1092,7 +1092,7 @@
                 ]
             },
 			{   
-                "ID": 15,
+                "ID": 16,
                 "name":"Crag Field",
                 "creature":[
                     {
