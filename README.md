@@ -1,2 +1,7 @@
 # miraiv2-subnautica-remake
-The remake of subnautica module data on miraiv2
+Remake version of Subnautica (fishing) module
+
+##What's new?
+Added all 16/16 location from The Crater
+Added some more fish (fauna)
+Please contact me if there any missing fish from The Crater.
