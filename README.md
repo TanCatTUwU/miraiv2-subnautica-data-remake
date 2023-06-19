@@ -1,4 +1,4 @@
-# miraiv2-subnautica-remake
+# Data remake
 Remake version of Subnautica (fishing) module
 
 ## What's new?
