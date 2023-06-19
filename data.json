@@ -551,6 +551,140 @@
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
+            },
+			{   
+                "ID": 9,
+                "name":"Dunes",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Bladderfish",
+                        "category":"Common",
+                        "size":32,
+                        "sell":20,
+                        "image": "https://i.imgur.com/W5IegiJ.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Boomerang",
+                        "category":"Common",
+                        "size":31,
+                        "sell":20,
+                        "image": "https://i.imgur.com/dtBM9sP.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Cave Crawler",
+                        "category":"Uncommon",
+                        "size":575,
+                        "sell":20,
+                        "image": "https://static.wikia.nocookie.net/subnautica/images/4/4f/CaveCrawler.jpg/revision/latest/scale-to-width-down/1000?cb=20160819135630"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Eyeye",
+                        "category":"Common",
+                        "size":28,
+                        "sell":18,
+                        "image": "https://i.imgur.com/jdcU4nC.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Garryfish",
+                        "category":"Common",
+                        "size":37,
+                        "sell":25,
+                        "image": "https://i.imgur.com/CNzSzIY.png"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Gasopod",
+                        "category":"Rare",
+                        "size":4700,
+                        "sell":18000,
+                        "image": "https://i.imgur.com/d5RYnzo.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Hoopfish",
+                        "category":"Common",
+                        "size":27,
+                        "sell":19,
+                        "image": "https://i.imgur.com/1I7IeiH.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Peeper",
+                        "category":"Common",
+                        "size":31,
+                        "sell":20,
+                        "image": "https://i.imgur.com/9tBkTdD.jpg"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Reaper Leviathan",
+                        "category":"Legendary",
+                        "size":5500,
+                        "sell":6796000,
+                        "image": "https://i.imgur.com/14sGSJ2.jpg"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Reefback Leviathan",
+                        "category":"Common",
+                        "size":37,
+                        "sell":25,
+                        "image": "https://i.imgur.com/Knd4axq.png"
+                    },
+                    {
+                        "ID":10,
+                        "name":"Rockgrub",
+                        "category":"Epic",
+                        "size":24,
+                        "sell":118000,
+                        "image": "https://i.imgur.com/xbdLdm4.jpg"
+                    },
+                    {
+                        "ID":11,
+                        "name":"Sand Shark",
+                        "category":"Rare",
+                        "size":500,
+                        "sell":22500,
+                        "image": "https://i.imgur.com/Ejo0kju.png"
+                    },
+                    {
+                        "ID":12,
+                        "name":"Shuttlebug",
+                        "category":"Uncommon",
+                        "size":27,
+                        "sell":410,
+                        "image": "https://i.imgur.com/Mly7Elf.jpg"
+                    },
+                    {
+                        "ID":13,
+                        "name":"Spadefish",
+                        "category":"Common",
+                        "size":30,
+                        "sell":20,
+                        "image": "https://i.imgur.com/Xt3mcnE.jpg"
+                    },
+                    {
+                        "ID":14,
+                        "name":"Warper",
+                        "category":"Epic",
+                        "size":170,
+                        "sell":348000,
+                        "image": "https://i.imgur.com/XRsxfIV.png"
+                    },
+                    {
+                        "ID":15,
+                        "name":"Gargantuan Leviathan",
+                        "category":"Mythical",
+                        "size":55000,
+                        "sell":67960000,
+                        "image": "https://static.wikia.nocookie.net/aotu/images/b/b4/Garg19.jpg/revision/latest?cb=20210728211455"
+                    }
+                ]
             }
         ]
     },
