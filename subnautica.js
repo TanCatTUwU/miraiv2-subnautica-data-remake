@@ -4,7 +4,7 @@ module.exports.config = {
     name: "subnautica",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "Dàn code của D-Jukie, đàn cá của Heo Rừng UwU, mod by Nek0w0",
+    credits: "Codded by D-Jukie, modded by Hifumi",
     description: "Câu cá ở một hành tinh khác, dựa theo tựa game Subnautica khiến bạn đái ra máu vì độ đa dạng của nó UwU",
     commandCategory: "Game mp",
     usages: "[]",
@@ -43,13 +43,13 @@ module.exports.onLoad = async () => {
     });
 
     if (!fs.existsSync(dir + "data.json")) (await axios({
-        url: "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/data.json",
+        url: "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-data-remake/main/data.json",
         method: 'GET',
         responseType: 'stream'
     })).data.pipe(fs.createWriteStream(dir + "data.json"));
 
     if (!fs.existsSync(dir + "item.json")) (await axios({
-        url: "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/item.json",
+        url: "https://raw.githubusercontent.com/miraiv2-subnautica-data-remake/main/item.json",
         method: 'GET',
         responseType: 'stream'
     })).data.pipe(fs.createWriteStream(dir + "item.json"));
@@ -136,7 +136,7 @@ module.exports.run = async function ({
             })
         }, messageID);
     }
-    case 'custom':
+    case 'change':
     case '-c': {
         if (!existsSync(pathData)) {
             return api.sendMessage({body: "(¯´•.•CÂU CÁ TRÊN 4546B•.•´¯)\n⚔️Bạn chưa có trong dữ liệu hệ thống!\nNhập ,subn -r để đăng kí", attachment: await this.subnautica()}, threadID, messageID);
@@ -160,7 +160,7 @@ module.exports.run = async function ({
                 })
             }, messageID);
         }
-        if (args[1] == 'locate') {
+        if (args[1] == 'location') {
             return api.sendMessage({body: "==[ŁØĆΔŦƗØŇ]==\n1. The Crater\n2. Sector Zero", attachment: await this.subnautica()}, threadID, (error, info) => {
                 global.client.handleReply.push({
                     name: this.config.name,
@@ -221,7 +221,7 @@ module.exports.run = async function ({
     }
 }
 module.exports.data = async function () {
-    const data = (await axios.get(`https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-remake/main/data.json`)).data;  
+    const data = (await axios.get(`https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-data-remake/main/data.json`)).data;  
     return data
 }
 
