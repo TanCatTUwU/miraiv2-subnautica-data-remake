@@ -841,6 +841,36 @@
                         "image": "https://i.imgur.com/XRsxfIV.png"
                     }
                 ]
+            },
+            {   
+                "ID": 12,
+                "name":"Crater Edge – The Void",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Ghost Leviathan Juvenile",
+                        "category":"Legendary",
+                        "size":6700,
+                        "sell":7205000,
+                        "image": "https://i.imgur.com/R4SDc8k.jpg"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Mẹ mày",
+                        "category":"Legendary",
+                        "size":69420727,
+                        "sell":6942000,
+                        "image": "https://raw.githubusercontent.com/TanCatTUwU/miraiv2-subnautica-data-remake/main/img/fish/urmomlol.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Grand Demon Leviathan",
+                        "category":"Mythical",
+                        "size":37300,
+                        "sell":35345800,
+                        "image": "https://i.imgur.com/WuWQOYy.jpg"
+                    }
+                ]
             }
         ]
     },
